@@ -1,7 +1,7 @@
-# Mi producto
+# Lektora
 
-> **Alumno:** cambia este título por el nombre de tu producto y esta línea por una frase que lo explique.
-> Proyecto n.º __ del catálogo · Sitio de referencia: __ · [PRD](docs/PRD.md) · URL publicada: __
+> **Lektora:** tu plataforma de seguimiento y reseñas de libros.
+> Proyecto n.º 07 del catálogo · Sitio de referencia: Goodreads · [PRD](docs/PRD.md) · URL publicada: pendiente
 
 Plantilla del proyecto de **Lenguaje de Programación · 2026**.
 La guía completa de la actividad está en el repositorio del curso:
